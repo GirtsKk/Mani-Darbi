@@ -1,0 +1,559 @@
+html,body{
+    width: 100%;
+    position: absolute;
+    margin:0 auto;
+}
+
+.topnav {
+width: 100%;
+height: 92.51px;
+left: 0px;
+top: 0px;
+background: #FFFFFF;
+text-align:right;
+line-height: 200px;
+
+font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    color: #060606;
+}
+#a-topnav{
+    padding-right: 39px;
+}
+a{
+    text-decoration:none;
+    color: inherit;
+    font-style:inherit;
+    font-family: inherit;
+    font-weight:inherit;
+    font-size:inherit;
+    padding-left:inherit;
+    padding-right:inherit;
+}
+.topnav__links:hover {
+    color: #FFCB66;
+    transition: all 0.2s ease;
+}
+.vector{
+    position: absolute;
+    left: -0.07%;
+    right: 0%;
+    top: 2.33%;
+    bottom: 96.71%;
+background: #FFFFFF;
+}
+.sparkle_video{
+width: 100%;
+position:absolute;
+height: 722px;
+top: 147px; 
+}
+
+.BlackLogo{
+    position: absolute;
+    width: 146px;
+    height: 159px;
+    left: 62px;
+    top: 0px;
+}
+.text1{
+    position: absolute;
+    width: 100%;
+    height: 114px;
+    top: 919px;
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+
+    
+    color: #2F4858;
+    
+    
+}
+.text1-brake{
+    width: 50%;
+    margin: auto;
+}
+.text2-brake{
+    width: 61%;
+    margin: auto;
+}
+.text3-brake{
+    width: 45%;
+    margin: auto;
+}
+.ripped-sparkle{
+    position: absolute;
+    left: -0.00%;
+    width: 100%;
+    right: 0%;
+    top: 24.6%;
+    bottom: 96.71%;
+}
+.ripped{
+    position: absolute;
+    width: 100%;
+    height: 55px;
+    top: 1182px;
+
+    background-image: url("../img/ripped.png"); 
+background-repeat: no-repeat;
+background-size: cover; 
+}
+.ripped2{
+    position: absolute;
+    width: 100%;
+height: 55px;
+left: 0px;
+top: 1526px;
+transform: rotate(-180deg);
+
+background-image: url("../img/ripped.png");
+background-repeat: no-repeat; 
+background-size: cover; 
+}
+
+.multiple-images {
+    width: 100%;
+    height: 383px;
+    top: 1211px;
+}
+
+.zanda{
+    position: absolute;
+    width: 25%;
+height: 355px;
+left: 0px;
+top: 1197px;
+}
+.sibilla{
+    position: absolute;
+width: 25%;
+height: 364px;
+left: 25%;
+top: 1202px;
+}
+.brinuma_meita{
+    position: absolute;
+width: 25%;
+height: 180px;
+left: 50%;
+top: 1202px;
+}
+.alina{
+    position: absolute;
+width: 25%;
+height: 184px;
+left: 50%;
+top: 1382px;
+}
+.anda{
+    position: absolute;
+width: 25%;
+height: 383px;
+left: 75%;
+top: 1183px;
+}
+.qtext1{
+    position: absolute;
+width: 50%;
+height: 29px;
+left: 2%;
+top: 1731px;
+
+font-family: Oswald;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+text-align: center;
+
+color: #2F4858;
+}
+.qtext2{
+    position: absolute;
+width: 50%;
+height: 29px;
+left: 49%;
+top: 1731px;
+
+font-family: Oswald;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+text-align: center;
+
+color: #2F4858;
+}
+
+.button1{
+    position: absolute;
+    width: 17%;
+    height: 50px;
+    left: 17%;
+    top: 1810px;
+    border-radius: 30px;
+    background-color:#FFA800;
+    border:none;
+    color:white;
+}
+.button2{
+    position: absolute;
+    width: 17%;
+    height: 50px;
+    left: 67%;
+    top: 1810px;
+    border-radius: 30px;
+    color:white;
+    border:none;
+    background-color:#FFA800;
+}
+
+.formasText{
+    position: absolute;
+width: 100%;
+height: 48px;
+top: 2010px;
+
+font-family: Oswald;
+font-style: normal;
+font-weight: 500;
+font-size: 30px;
+line-height: 44px;
+text-align: center;
+color: #2F4858;
+
+
+}
+.inputfield-name{
+    position: absolute;
+width: 19%;
+height: 43px;
+left: 30%;
+top: 2113px;
+
+background: rgba(196, 196, 196, 0.4);
+border-radius: 6px;
+border: none;
+}
+.inputfield-email{
+    position: absolute;
+width: 19%;
+height: 43px;
+left: 50%;
+top: 2113px;
+
+background: rgba(196, 196, 196, 0.4);
+border-radius: 6px;
+border: none;
+}
+.inputfield-tel{
+    position: absolute;
+width: 39%;
+height: 43px;
+left: 30%;
+top: 2171px;
+
+background: rgba(196, 196, 196, 0.4);
+border-radius: 6px;
+border:none;
+}
+.textarea{
+    position: absolute;
+width: 39%;
+height: 232px;
+left: 30%;
+top: 2229px;
+
+background: rgba(196, 196, 196, 0.4);
+border-radius: 6px;
+border: none;
+}
+
+.smalltext{
+    position: absolute;
+width: 100%;
+height: 25px;
+left: 30%;
+top: 2476px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+color: #2F4858;
+}
+.consent{
+    position: absolute;
+width: 572px;
+height: 39px;
+left: 32%;
+top: 2526px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 17px;
+
+color: #2F4858;
+}
+.inputCheck{
+    position: absolute;
+width: 16px;
+height: 41px;
+left:30%;
+top: 2529px;
+}
+.poga{
+    position: absolute;
+width: 13%;
+height: 62px;
+left: 44%;
+top: 2615px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+align-items: center;
+text-align: center;
+border-radius: 30px;
+border: none;
+
+color: #FFFFFF;
+background-color:#FFA800;
+}
+
+.atbalstitaji{
+    position: absolute;
+    width: 100%;
+height: 533.32px;
+left: 0px;
+top: 2827px;
+
+background: #FFCB66;
+}
+.teikums{
+    position: absolute;
+width: 15%;
+height: 80px;
+left: 10%;
+top: 3045px;
+padding: 10px;
+
+}
+.sem-logo{
+    position: absolute;
+width: 13%;
+height: 80px;
+left: 30%;
+top: 3045px;
+padding: 10px;
+}
+.citybee{
+    position: absolute;
+width: 14%;
+height: 80px;
+left: 50%;
+top: 3045px;
+padding: 10px;
+}
+.linearis{
+    position: absolute;
+width: 5%;
+height: 120px;
+left: 70%;
+top: 3026px;
+padding: 10px;
+}
+.ripped3{
+    position: absolute;
+    width: 100%;
+height: 55px;
+left: 0px;
+top: 2826px;
+
+background-image: url("../img/ripped.png"); 
+background-repeat: no-repeat; 
+background-size: cover; 
+}
+.atbalstitaji-text{
+    position: absolute;
+width: 100%;
+height: 29px;
+top: 2900px;
+
+font-family: Oswald;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+text-align: center;
+
+color: #2F4858;
+}
+.footer{
+    position: absolute;
+left: 0%;
+right: 0%;
+top: 626.6%;
+bottom: 0%;
+width: 100%;
+height: 324px;
+
+background: #2F4858;
+}
+.ripped4{
+    position: absolute;
+top: 616.6%;
+width: 100%;
+transform: rotate(-180deg);
+
+background-image: url("../img/ripped-blue.png"); 
+background-repeat: no-repeat; 
+background-size: cover; 
+}
+.GoldenLogo{
+    position: absolute;
+left: 4.54%;
+right: 82.14%;
+top: 8.41%;
+bottom: 32.18%;
+}
+.copyright-text{
+    position: absolute;
+left: 4.54%;
+right: 82.14%;
+top: 76.44%;
+bottom: 3.46%;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+
+color: #FFFFFF;
+}
+#footertext{
+    position: absolute;
+left: 28.11%;
+right: 66.91%;
+top: 12.62%;
+bottom: 74.73%;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+color: #FFFFFF;
+width: 200px;
+}
+
+.footertext2{
+    position: absolute;
+    left: 47%;
+    right: 32.58%;
+    top: 20.89%;
+    bottom: 53.99%;
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 0px;
+    
+    color: #FFFFFF;
+}
+.TitleFooter{
+    position: absolute;
+    left: 47%;
+    right: 31.99%;
+    top: 4.62%;
+    bottom: 75%;
+    
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    
+    color: #FFFFFF;
+}
+.TitleFooter2{
+    position: absolute;
+left: 81.99%;
+right: 4.69%;
+top: 4.62%;
+bottom: 69.15%;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 24px;
+line-height: 29px;
+text-align: right;
+
+color: #FFFFFF;
+}
+.footertext3{
+    position: absolute;
+left: 66.47%;
+right: 4.69%;
+top: 20.89%;
+bottom: 63.3%;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+line-height: 0px;
+text-align: right;
+
+color: #FFFFFF;
+}
+.SocialMedia{
+    position: absolute;
+left: 89.39%;
+right: 9.3%;
+top: 58.82%;
+bottom: 22.61%;
+
+}
+.SocialMedia2{
+    position: absolute;
+left: 92.83%;
+right: 4.54%;
+top: 58.82%;
+bottom: 22.61%;
+
+}
+.privatuma-politika{
+    position: absolute;
+left: 81.55%;
+right: 4.54%;
+top: 76.44%;
+bottom: 5.32%;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 17px;
+text-align: right;
+
+color: #FFFFFF;
+
+
+}
